@@ -36,6 +36,8 @@ class Cart():
 
     def find_most_expensive(self):
         pass
+        # My list should be a dictionary. If I turn it into a dictionary my whole world will explode. 
+        
 
 apple = Product('apple', 14.65, 15)
 orange = Product('orange', 3.99, 15)
